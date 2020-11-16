@@ -6,7 +6,7 @@
   NestJS start template
 </p>
 
-## Описание
+## Description
 
 <p align="center">
   NestJS start template that helps to start new project, includes common handlers, local auth, yandex auth, encryption and user modules.
