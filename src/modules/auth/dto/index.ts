@@ -1,0 +1,1 @@
+export { LocalAuthDto } from './local-auth.dto'
